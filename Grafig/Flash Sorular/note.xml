@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+  <country id="1">
+    <question>Türkiye'nin Başkenti</question>
+    <stylishA>Ankara</stylishA>
+    <stylishB>İzmit</stylishB>
+    <stylishC>İzmir</stylishC>
+    <stylishD>Konya</stylishD>
+    <answer>Ankara</answer>
+  </country>
+  <country id="2">
+    <question>Almanya'nın Başkenti</question>
+    <stylishA>Berlin</stylishA>
+    <stylishB>Bremen</stylishB>
+    <stylishC>Hamburg</stylishC>
+    <stylishD>Hessen</stylishD>
+    <answer>Berlin</answer>
+  </country>
+  <country id="3">
+    <question>Belçika'nın Başkenti</question>
+    <stylishA>Brüksel</stylishA>
+    <stylishB>Anvers</stylishB>
+    <stylishC>Gent</stylishC>
+    <stylishD>Charleroi</stylishD>
+    <answer>Brüksel</answer>
+  </country>
+</questions>
