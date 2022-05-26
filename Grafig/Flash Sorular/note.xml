@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
   <country id="1">
-    <question>Türkiye'nin Başkenti</question>
+    <question>Türkiye'nin Baskenti</question>
     <stylishA>Ankara</stylishA>
     <stylishB>İzmit</stylishB>
     <stylishC>İzmir</stylishC>
@@ -9,7 +9,7 @@
     <answer>Ankara</answer>
   </country>
   <country id="2">
-    <question>Almanya'nın Başkenti</question>
+    <question>Almanya'nin Baskenti</question>
     <stylishA>Berlin</stylishA>
     <stylishB>Bremen</stylishB>
     <stylishC>Hamburg</stylishC>
@@ -17,11 +17,97 @@
     <answer>Berlin</answer>
   </country>
   <country id="3">
-    <question>Belçika'nın Başkenti</question>
+    <question>Belçika'nin Baskenti</question>
     <stylishA>Brüksel</stylishA>
     <stylishB>Anvers</stylishB>
     <stylishC>Gent</stylishC>
     <stylishD>Charleroi</stylishD>
     <answer>Brüksel</answer>
   </country>
+  <country id="4">
+    <question>Hollanda'nin Baskenti</question>
+    <stylishA>Rotterdam</stylishA>
+    <stylishB>Amsterdam</stylishB>
+    <stylishC>Tilburg</stylishC>
+    <stylishD>Almere</stylishD>
+    <answer>Amsterdam</answer>
+  </country>
+  <country id="5">
+    <question>Ispanya'nin Baskenti</question>
+    <stylishA>Barselona</stylishA>
+    <stylishB>Cadiz</stylishB>
+    <stylishC>Madrid</stylishC>
+    <stylishD>Cordoba</stylishD>
+    <answer>Madrid</answer>
+  </country>
+  <country id="6">
+    <question>Ukrayna'nin Baskenti</question>
+    <stylishA>Brüksel</stylishA>
+    <stylishB>Anvers</stylishB>
+    <stylishC>Gent</stylishC>
+    <stylishD>Charleroi</stylishD>
+    <answer>Brüksel</answer>
+  </country>
+  <country id="7">
+    <question>Isvicre'nin Baskenti</question>
+    <stylishA>Basel</stylishA>
+    <stylishB>Bern</stylishB>
+    <stylishC>Interlaken</stylishC>
+    <stylishD>Lozan</stylishD>
+    <answer>Bern</answer>
+  </country>
+  <country id="8">
+    <question>Yugoslavya'nin Baskenti</question>
+    <stylishA>Üsküp</stylishA>
+    <stylishB>Budva</stylishB>
+    <stylishC>Saraybosna</stylishC>
+    <stylishD>Belgrad</stylishD>
+    <answer>Belgrad</answer>
+  </country>
+  <country id="9">
+    <question>Mısır'nin Baskenti</question>
+    <stylishA>Kahire</stylishA>
+    <stylishB>Asvan</stylishB>
+    <stylishC>Benha</stylishC>
+    <stylishD>El Alameyn</stylishD>
+    <answer>Kahire</answer>
+  </country>
+  <country id="10">
+    <question>Polonya'nin Baskenti</question>
+    <stylishA>Wrocław</stylishA>
+    <stylishB>Kraków</stylishB>
+    <stylishC>Szczecin</stylishC>
+    <stylishD>Varşova</stylishD>
+    <answer>Varşova</answer>
+  </country>
+  <country id="11">
+    <question>Azerbaycan'nin Baskenti</question>
+    <stylishA>Bakü</stylishA>
+    <stylishB>Gence</stylishB>
+    <stylishC>Nahçıvan</stylishC>
+    <stylishD>Hankendi</stylishD>
+    <answer>Bakü</answer>
+  </country>
+  <country id="12">
+    <question>Türkmenistan'in Baskenti</question>
+    <stylishA>Aşkabat</stylishA>
+    <stylishB>Balkanabat</stylishB>
+    <stylishC>Taşoğuz</stylishC>
+    <stylishD>Bayramali</stylishD>
+    <answer>Aşkabat</answer>
+  </country>
+  <prizeList id="13">
+    <Prize1>1000000</Prize1>
+    <Prize2>250000</Prize2>
+    <Prize3>125000</Prize3>
+    <Prize4>50000</Prize4>
+    <Prize5>20000</Prize5>
+    <Prize6>15000</Prize6>
+    <Prize7>7500</Prize7>
+    <Prize8>5000</Prize8>
+    <Prize9>3000</Prize9>
+    <Prize10>2000</Prize10>
+    <Prize11>1000</Prize11>
+    <Prize12>500</Prize12>
+  </prizeList>
 </questions>
